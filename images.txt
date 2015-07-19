@@ -1,0 +1,8 @@
+http://qacdsstorage.blob.core.windows.net/publicres/OOBT_Contact Us Form and Actions.svg
+http://qacdsstorage.blob.core.windows.net/publicres/OOBT_Event Invitation.svg
+http://qacdsstorage.blob.core.windows.net/publicres/OOBT_New Customer Sequence.svg
+http://qacdsstorage.blob.core.windows.net/publicres/OOBT_Newsletter with Follow Up.svg
+http://qacdsstorage.blob.core.windows.net/publicres/OOBT_Physical Address Collection Campaign.svg
+http://qacdsstorage.blob.core.windows.net/publicres/OOBT_Prospect Nurture Campaign.svg
+http://qacdsstorage.blob.core.windows.net/publicres/OOBT_Reconnect Sequence.svg
+http://qacdsstorage.blob.core.windows.net/publicres/OOBT_eBookWhitepaper Download and Follow Up.svg
