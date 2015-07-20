@@ -1,13 +1,13 @@
-1. talk to zohara
-2. fix with nir
-3. set lunch with ola. tomorrow?
-4. bat-el - should i talk to her abour nir
-5. angular2
+- 1. talk to zohara
+- 2. fix with nir
+- 3. set lunch with ola. tomorrow?
+- 4. bat-el - should i talk to her abour nir
+- 5. angular2
 6. profiling
 7. retro of current sprint
-8. apologize to zohara?
+- 8. apologize to zohara?
 9. koren. 
-10. do amazon thing
+- 10. do amazon thing
 11. artyom at 16:00 to 18000
 12. benji @ 1800
 13. elad @ 1900
