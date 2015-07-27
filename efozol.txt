@@ -10,13 +10,19 @@
 		b. get branches (by location)
 		c. get prices (branches * products, ordered by price)
 		
-2. Teams
+2. Teams (R&D) 
 	I. Client
-		a. Web
+		a. Web (Javascript, Angular)
 		b. Android
 		c. iOS
 	II. Web Server
-	III. Database
+		a. API
+		b. NodeJs
+		c. db (PostgreSql)
+	III. DevOps
+		a. Docker
+		b. Cloud
+		c. Testing
 	IV. Parsers
 	V. Big Data
 	
