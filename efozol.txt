@@ -13,21 +13,63 @@
 2. Teams (R&D) 
 	I. Client
 		a. Web (Javascript, Angular)
+			A. Boaz
+			B. 
 		b. Android
+			A. Nitzan
 		c. iOS
-	II. Web Server
-		a. API
-		b. NodeJs
-		c. db (PostgreSql)
-	III. DevOps
+	II. Web Server 
+		a. API (NodeJs) 
+			A. Daniel
+		b. db (PostgreSql)
+			A. Xenia
+	III. DevOps 
 		a. Docker
+			A. boaz
 		b. Cloud
 		c. Testing
 	IV. Parsers
 	V. Big Data
-	
+	VI. UI/UX
+	VII. PR
 3. Presentation
 4. Architecture
 5. Open API and implications.
 6. Have fun.
+
+
+
+
+
+
+
+1. Code repository..
+2. setting up teams.
+3. fields of knowledge/interest.
+4. trello
+5. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
