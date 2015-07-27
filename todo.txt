@@ -1,27 +1,7 @@
 
-1. API
-	I. Pull API
-		a. add store (auth)
-		b. add branch
-		c. add product
-		d. add price (product/branch/time)
-	II. Get API
-		a. get products (by name)
-		b. get branches (by location)
-		c. get prices (branches * products, ordered by price)
-		
-2. Teams
-	I. Client
-		a. Web
-		b. Android
-		c. iOS
-	II. Web Server
-	III. Database
-	IV. Parsers
-	V. Big Data
-	
-3. Presentation
-4. Architecture
-5. Open API and implications.
-6. Have fun.
 
+1. EfoZol
+2. Project X
+3. Amazon
+4. Resteraunt with Ben.
+5. 
